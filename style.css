@@ -7,6 +7,10 @@ section{
     background-color: cadetblue;
     padding-top: 80px;
     padding-bottom: 80px;
-    display: flex;
+    display: flex; /* torna a seção flexivel pondo um do lado do outro */
     justify-content: center;
+}
+
+div{
+    margin-right: 200px;
 }
