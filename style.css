@@ -4,7 +4,7 @@ body{
 }
 
 section{
-    background-color: cadetblue;
+    background-color: greenyellow;
     padding-top: 80px;
     padding-bottom: 80px;
     display: flex; /* torna a seção flexivel pondo um do lado do outro */
